@@ -1,0 +1,4 @@
+Git命令下中文显示乱码
+git config --global core.quotepath false
+
+注意：git 无法add空文件夹
